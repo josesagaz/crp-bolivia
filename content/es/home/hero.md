@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "A la Vanguardia del Proceso"
+title = "Colectivo RPMC"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-vanguardia.png"
+hero_media = "logo-grande.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -51,9 +51,6 @@ hero_media = "hero-vanguardia.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-La Vanguardia es un colectivo de jóvenes bolivianos conformado en la ciudad de La Paz, soldados revolucionarios que se mantienen firmes defensores del _Proceso de Cambio_ y con mas fuerza después del **golpe de Estado** que sufrió Bolivia. 
-
-Hoy más que nunca son los jóvenes quienes tienen que llevar adelante las riendas de la revolución encabezada por el hermano Evo Morales. 
 
 **¡HASTA LA VICTORIA SIEMPRE!**
 

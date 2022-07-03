@@ -2,466 +2,466 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lavanguardia.netlify.app/publication-type/0/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication-type/0/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
+    <loc>https://crp-bolivia.netlify.app/category/articulos/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/authors/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/authors/"
-                />
-  </url><url>
-    <loc>https://lavanguardia.netlify.app/categories/</loc>
+    <loc>https://crp-bolivia.netlify.app/authors/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lavanguardia.netlify.app/en/categories/"
+                href="https://crp-bolivia.netlify.app/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://lavanguardia.netlify.app/categories/"
+                href="https://crp-bolivia.netlify.app/authors/"
                 />
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/gabo_campero_nava/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lavanguardia.netlify.app/</loc>
+    <loc>https://crp-bolivia.netlify.app/categories/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lavanguardia.netlify.app/en/"
+                href="https://crp-bolivia.netlify.app/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://lavanguardia.netlify.app/"
+                href="https://crp-bolivia.netlify.app/categories/"
                 />
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/mas-voceros-urgente/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lavanguardia.netlify.app/publication_types/</loc>
+    <loc>https://crp-bolivia.netlify.app/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lavanguardia.netlify.app/en/publication_types/"
+                href="https://crp-bolivia.netlify.app/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://lavanguardia.netlify.app/publication_types/"
+                href="https://crp-bolivia.netlify.app/"
                 />
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/gabo_campero_nava/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/colombia-y-la-patria-grande/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/mas-voceros-urgente/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/publication_types/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://crp-bolivia.netlify.app/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://crp-bolivia.netlify.app/publication_types/"
+                />
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/publication/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/publication/colombia-y-la-patria-grande/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/cumbre-de-las-americas/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/cumbre-de-las-americas/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/autonomias-dirigencias/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/autonomias-dirigencias/</loc>
     <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/la-funcion-de-la-academia/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/la-funcion-de-la-academia/</loc>
     <lastmod>2022-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/la-dignidad/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/la-dignidad/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/el-referente-etico/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/el-referente-etico/</loc>
     <lastmod>2022-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/fariseos-y-su-rol/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/fariseos-y-su-rol/</loc>
     <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/lo-comodo-de-ser-oposicion/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/lo-comodo-de-ser-oposicion/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/la-resistencia-olvidada/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/la-resistencia-olvidada/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/desclasamiento/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/desclasamiento/</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/ariel_percy_molina_pimentel_el_molinario/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/ariel_percy_molina_pimentel_el_molinario/</loc>
     <lastmod>2022-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/el-chivo-expiatorio/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/el-chivo-expiatorio/</loc>
     <lastmod>2022-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/los-hombres-mueren/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/los-hombres-mueren/</loc>
     <lastmod>2022-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/indignacion-selectiva/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/indignacion-selectiva/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/de-vuelta-a-clases/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/de-vuelta-a-clases/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/internacionalismo/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/internacionalismo/</loc>
     <lastmod>2022-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/mantener-viva/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/mantener-viva/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/deberes-del-militante/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/deberes-del-militante/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/las-cajas-y-la-frustracion/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/las-cajas-y-la-frustracion/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/melissa_bress/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/melissa_bress/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/militancias-y-avales/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/militancias-y-avales/</loc>
     <lastmod>2022-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/obligar-a-preocuparnos/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/obligar-a-preocuparnos/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/melisa_viviana_bress_virgos/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/melisa_viviana_bress_virgos/</loc>
     <lastmod>2022-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/creencias-y-vacunacion/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/creencias-y-vacunacion/</loc>
     <lastmod>2022-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/vacunas-vs-mitos/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/vacunas-vs-mitos/</loc>
     <lastmod>2022-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/leales-y-traidores/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/leales-y-traidores/</loc>
     <lastmod>2021-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/patria-es-humanidad/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/patria-es-humanidad/</loc>
     <lastmod>2021-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/freddy_aruquipa_chipana/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/freddy_aruquipa_chipana/</loc>
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/mas-alla-de-los-800-items/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/mas-alla-de-los-800-items/</loc>
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/valverde/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/valverde/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/santa-cruz-y-el-sesgo/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/santa-cruz-y-el-sesgo/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/antonia-y-la-paridad/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/antonia-y-la-paridad/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/claudia_herbas/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/claudia_herbas/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/marcha-exacerba-a-la-oposicion/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/marcha-exacerba-a-la-oposicion/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/el_vanguardiano/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/el_vanguardiano/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/marcha-por-la-patria/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/marcha-por-la-patria/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/las_warmis/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/las_warmis/</loc>
     <lastmod>2021-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/prada-la-ministra/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/prada-la-ministra/</loc>
     <lastmod>2021-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/cerco-mediatico/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/cerco-mediatico/</loc>
     <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/el-camba-no-es-flojo/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/el-camba-no-es-flojo/</loc>
     <lastmod>2021-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/alerta-la-derecha/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/alerta-la-derecha/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/pitismo-estatal/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/pitismo-estatal/</loc>
     <lastmod>2021-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/pueblo-aplasta-paro/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/pueblo-aplasta-paro/</loc>
     <lastmod>2021-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/despolitizacion-servidor-publico/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/despolitizacion-servidor-publico/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/mayoria-y-ley/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/mayoria-y-ley/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/recuperar-nuestros-simbolos/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/recuperar-nuestros-simbolos/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/wiphala-se-respeta/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/wiphala-se-respeta/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/los-menos/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/los-menos/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/baseseimpotencia/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/baseseimpotencia/</loc>
     <lastmod>2021-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/camacho-discriminacion/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/camacho-discriminacion/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/camacho/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/camacho/</loc>
     <lastmod>2021-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/show-de-anez/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/show-de-anez/</loc>
     <lastmod>2021-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/el-vanguardiano/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/el-vanguardiano/</loc>
     <lastmod>2021-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/deuda-historica/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/deuda-historica/</loc>
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/galo_amusquivar/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/galo_amusquivar/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/juicio-ordinario/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/juicio-ordinario/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/desigualdad-legal/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/desigualdad-legal/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/erick_gonzalo_flores_zenteno/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/erick_gonzalo_flores_zenteno/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/maria_eugenia_martinez/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/maria_eugenia_martinez/</loc>
     <lastmod>2021-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/la-estrategia-le-funciono/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/la-estrategia-le-funciono/</loc>
     <lastmod>2021-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/masacre-de-san-juan/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/masacre-de-san-juan/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/la-practica-de-asumir/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/la-practica-de-asumir/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/entre-vacaciones/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/entre-vacaciones/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/victoria_perales_aguirre/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/victoria_perales_aguirre/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/propuestas-incompletas/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/propuestas-incompletas/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/error-del-anti-evismo/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/error-del-anti-evismo/</loc>
     <lastmod>2021-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/segunda-vuelta-electoral/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/segunda-vuelta-electoral/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/decisiones-politicas/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/decisiones-politicas/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/verdadero-enemigo/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/verdadero-enemigo/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/santo-de-larrea/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/santo-de-larrea/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/derribando-idolos/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/derribando-idolos/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/la-suerte-esta-echada/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/la-suerte-esta-echada/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/antimasismo-vs-progreso/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/antimasismo-vs-progreso/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/con-manfred/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/con-manfred/</loc>
     <lastmod>2021-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/sacar-a-su-perro/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/sacar-a-su-perro/</loc>
     <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/aguantar-bien/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/aguantar-bien/</loc>
     <lastmod>2021-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/ausencia-revolucion/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/ausencia-revolucion/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/subnacionales-golpe/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/subnacionales-golpe/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/revolucion-democratica/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/revolucion-democratica/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/triunfo-electoral/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/triunfo-electoral/</loc>
     <lastmod>2020-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/victor_vacaflores_p.__baco/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/victor_vacaflores_p.__baco/</loc>
     <lastmod>2020-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/raquel_galeon_de_somos_madre_tierra/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/raquel_galeon_de_somos_madre_tierra/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/reverdecer-capitalismo/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/reverdecer-capitalismo/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/d.j._hinojosapimentel/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/d.j._hinojosapimentel/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/tragedia-clase-media/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/tragedia-clase-media/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/gabo_campero_n/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/gabo_campero_n/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/reconstruir-la-patria/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/reconstruir-la-patria/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/gene-sharp-aplicado/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/gene-sharp-aplicado/</loc>
     <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/anibal_garcia_fernandez/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/anibal_garcia_fernandez/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/iniciativa-america-crece/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/iniciativa-america-crece/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/viva-el-chato/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/viva-el-chato/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/fernando_c_m/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/fernando_c_m/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/analisis-comportamiento-pandemia/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/analisis-comportamiento-pandemia/</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/colectivo_sinchi_warmis/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/colectivo_sinchi_warmis/</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/adolfo_mena_gonzales/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/adolfo_mena_gonzales/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/responsabilidad-revolucionaria/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/responsabilidad-revolucionaria/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/soren/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/soren/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/tiempos-de-pandemia/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/tiempos-de-pandemia/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/musk-y-el-litio/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/musk-y-el-litio/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/bolivia-en-una-encrucijada/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/bolivia-en-una-encrucijada/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/orlando_flores/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/orlando_flores/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/anibal_urquieta/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/anibal_urquieta/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/represion-en-kara-kara/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/represion-en-kara-kara/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/la-baja-tasa-de-recuperacion/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/la-baja-tasa-de-recuperacion/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/respuestas-sencillas-a-preguntas-tontas/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/respuestas-sencillas-a-preguntas-tontas/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/post/el-comite-de-expertas-expresa/</loc>
+    <loc>https://crp-bolivia.netlify.app/post/el-comite-de-expertas-expresa/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/category/noticias/</loc>
+    <loc>https://crp-bolivia.netlify.app/category/noticias/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/post/</loc>
+    <loc>https://crp-bolivia.netlify.app/post/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/post/guerreros-digirales-de-la-burla/</loc>
+    <loc>https://crp-bolivia.netlify.app/post/guerreros-digirales-de-la-burla/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/biblioteca/</loc>
+    <loc>https://crp-bolivia.netlify.app/biblioteca/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/tag/brigada/</loc>
+    <loc>https://crp-bolivia.netlify.app/tag/brigada/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/tag/coleccion1/</loc>
+    <loc>https://crp-bolivia.netlify.app/tag/coleccion1/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/tag/coleccion3/</loc>
+    <loc>https://crp-bolivia.netlify.app/tag/coleccion3/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/biblioteca/jose-marti-obras-completas-edicion-critica-tomo-29/</loc>
+    <loc>https://crp-bolivia.netlify.app/biblioteca/jose-marti-obras-completas-edicion-critica-tomo-29/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/biblioteca/los-once-de-la-tribu/</loc>
+    <loc>https://crp-bolivia.netlify.app/biblioteca/los-once-de-la-tribu/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/tags/</loc>
+    <loc>https://crp-bolivia.netlify.app/tags/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lavanguardia.netlify.app/en/tags/"
+                href="https://crp-bolivia.netlify.app/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://lavanguardia.netlify.app/tags/"
+                href="https://crp-bolivia.netlify.app/tags/"
                 />
   </url><url>
-    <loc>https://lavanguardia.netlify.app/biblioteca/teatro-del-oprimido/</loc>
+    <loc>https://crp-bolivia.netlify.app/biblioteca/teatro-del-oprimido/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/post/coronavirus-en-estados-unidos-el-miedo-de-kissinger/</loc>
+    <loc>https://crp-bolivia.netlify.app/post/coronavirus-en-estados-unidos-el-miedo-de-kissinger/</loc>
     <lastmod>2020-06-07T17:09:49-04:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/post/declaraciones-de-la-portavoz-del-ministerio/</loc>
+    <loc>https://crp-bolivia.netlify.app/post/declaraciones-de-la-portavoz-del-ministerio/</loc>
     <lastmod>2020-06-07T17:21:42-04:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/el-verdadero-virus-que-mata/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/el-verdadero-virus-que-mata/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/elmolinario/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/elmolinario/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/jose_quisbert_m/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/jose_quisbert_m/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/pronunciamiento-de-la-izquierda/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/pronunciamiento-de-la-izquierda/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/su-verdadero-rostro/</loc>
+    <loc>https://crp-bolivia.netlify.app/publication/su-verdadero-rostro/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/slides/presentacion/</loc>
+    <loc>https://crp-bolivia.netlify.app/slides/presentacion/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/slides/</loc>
+    <loc>https://crp-bolivia.netlify.app/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/</loc>
+    <loc>https://crp-bolivia.netlify.app/author/</loc>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/courses/</loc>
+    <loc>https://crp-bolivia.netlify.app/courses/</loc>
   </url>
 </urlset>

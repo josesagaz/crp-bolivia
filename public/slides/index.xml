@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Slides | La Vanguardia</title>
-    <link>https://lavanguardia.netlify.app/slides/</link>
-      <atom:link href="https://lavanguardia.netlify.app/slides/index.xml" rel="self" type="application/rss+xml" />
+    <title>Slides | Colectivo Revolucionario Plurinacional Marxista Comunitario</title>
+    <link>https://crp-bolivia.netlify.app/slides/</link>
+      <atom:link href="https://crp-bolivia.netlify.app/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2022</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Programa nacional de reactivación del empleo</title>
-      <link>https://lavanguardia.netlify.app/slides/presentacion/</link>
+      <link>https://crp-bolivia.netlify.app/slides/presentacion/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://lavanguardia.netlify.app/slides/presentacion/</guid>
+      <guid>https://crp-bolivia.netlify.app/slides/presentacion/</guid>
       <description>&lt;img src=&#34;1.png&#34; width=&#34;100%&#34;&gt;
 &lt;hr&gt;
 &lt;img src=&#34;2.png&#34; width=&#34;100%&#34;&gt;

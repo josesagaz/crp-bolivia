@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>La Vanguardia</title>
-    <link>https://lavanguardia.netlify.app/author/</link>
-      <atom:link href="https://lavanguardia.netlify.app/author/index.xml" rel="self" type="application/rss+xml" />
-    <description>La Vanguardia</description>
+    <title>Colectivo Revolucionario Plurinacional Marxista Comunitario</title>
+    <link>https://crp-bolivia.netlify.app/author/</link>
+      <atom:link href="https://crp-bolivia.netlify.app/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Colectivo Revolucionario Plurinacional Marxista Comunitario</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2022</copyright>
     <image>
-      <url>https://lavanguardia.netlify.app/img/laVanguardia-small.png</url>
-      <title>La Vanguardia</title>
-      <link>https://lavanguardia.netlify.app/author/</link>
+      <url>https://crp-bolivia.netlify.app/img/laVanguardia-small.png</url>
+      <title>Colectivo Revolucionario Plurinacional Marxista Comunitario</title>
+      <link>https://crp-bolivia.netlify.app/author/</link>
     </image>
     
   </channel>
