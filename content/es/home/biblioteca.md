@@ -1,12 +1,12 @@
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+headless = true       # This file represents a page section.
+active = true         # Activate this widget? true/false
+weight = 65           # Order that this section will appear.
 
 title = "Biblioteca"
-subtitle = "Libros escogidos"
+subtitle = "Libros para la capacitación"
 
 [content]
   # Page type to display. E.g. project.
@@ -26,15 +26,15 @@ subtitle = "Libros escogidos"
     tag = "*"
   
   [[content.filter_button]]
-    name = "José Martí"
+    name = "Karl Marx"
     tag = "coleccion1"
   
   [[content.filter_button]]
-  name = "Leer en libertad"
+  name = "José Carlos Mariátegui"
     tag = "brigada"
     
 [[content.filter_button]]
-  name = "Casa de las Américas"
+  name = "Friedrich Hegel"
     tag = "coleccion3"
 
 [design]
@@ -67,8 +67,8 @@ subtitle = "Libros escogidos"
   # "SkyBlue"
   
   # Background image.
-   image = "biblioteca.webp"  # Name of image in `static/img/`.
-   image_darken = 0.8         # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image = "back2.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.3     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true  
