@@ -1,9 +1,7 @@
 +++
-###############################################################################
-#
-# estos articulos tienen que ser guardados en el folder 'publication'
-#
-###############################################################################
+##############################################################################
+# estos articulos tienen que ser guardados en el folder 'articulos'          #
+##############################################################################
 # A Featured Publications section created with the Featured Content widget.
 # This section displays publications from `content/publication/` which have
 # `featured = true` in their front matter.
@@ -11,14 +9,14 @@
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true      # This file represents a page section.
 active = true        # Activate this widget? true/false
-weight = 80          # Order that this section will appear.
+weight = 60          # Order that this section will appear.
 
 title = "Artículos"
 subtitle = "Artículos escogidos"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "articulos"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 3

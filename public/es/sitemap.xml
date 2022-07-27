@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://crp-bolivia.netlify.app/videos/que-es-la-otan/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://crp-bolivia.netlify.app/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,15 +18,51 @@
                 href="https://crp-bolivia.netlify.app/"
                 />
   </url><url>
-    <loc>https://crp-bolivia.netlify.app/slides/presentacion/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://crp-bolivia.netlify.app/videos/consecuencias-de-la-guerra/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://crp-bolivia.netlify.app/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://crp-bolivia.netlify.app/videos/crisis-del-sistema-universitario/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://crp-bolivia.netlify.app/author/</loc>
+    <loc>https://crp-bolivia.netlify.app/videos/el-pedigri-jailon/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/tag/insurgentes_crp/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/videos/la-cob/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/videos/la-cumbre-de-las-americas/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/videos/la-policia-boliviana/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/videos/los-medios/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/videos/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/tags/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://crp-bolivia.netlify.app/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://crp-bolivia.netlify.app/tags/"
+                />
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/publication-type/0/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://crp-bolivia.netlify.app/authors/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,6 +75,7 @@
                 />
   </url><url>
     <loc>https://crp-bolivia.netlify.app/categories/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,11 +87,17 @@
                 href="https://crp-bolivia.netlify.app/categories/"
                 />
   </url><url>
-    <loc>https://crp-bolivia.netlify.app/courses/</loc>
+    <loc>https://crp-bolivia.netlify.app/category/formacion/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://crp-bolivia.netlify.app/post/</loc>
+    <loc>https://crp-bolivia.netlify.app/formacion/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/author/insurgentes/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://crp-bolivia.netlify.app/publication_types/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -63,18 +109,39 @@
                 href="https://crp-bolivia.netlify.app/publication_types/"
                 />
   </url><url>
-    <loc>https://crp-bolivia.netlify.app/publication/</loc>
+    <loc>https://crp-bolivia.netlify.app/formacion/estabilidad-economica/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://crp-bolivia.netlify.app/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://crp-bolivia.netlify.app/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://crp-bolivia.netlify.app/tags/"
-                />
+    <loc>https://crp-bolivia.netlify.app/formacion/2/</loc>
+    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/category/articulos/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/author/ministerio-de-salud/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/articulos/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/articulos/salud-recomienda-aceptar/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/videos/el-fin-del-autoritarismo/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/slides/presentacion/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/author/</loc>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/courses/</loc>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/post/</loc>
+  </url><url>
+    <loc>https://crp-bolivia.netlify.app/publication/</loc>
   </url>
 </urlset>
