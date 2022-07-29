@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true    # Activate this widget? true/false
 weight = 10      # Order that this section will appear.
 
-title = "Colectivo RPMC"
+title = "Colectivo Revolucionario Plurinacional Marxista Comunitario"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "logo-grande.png"
@@ -55,7 +55,7 @@ hero_media = "logo-grande.png"
 **“Nosotros no buscamos ningun interes material, pero los imperialistas es lógico... ¡Que no lo entiendan!”**
 
 
-<br><br><br><br><br>
+<br><br>
 
 <span style="text-shadow: none;"><a class="github-button" href="https://" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
 <!-- -->
