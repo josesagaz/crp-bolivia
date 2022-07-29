@@ -8,6 +8,7 @@ links:
 slides: 
 summary: 
 tags:
+- Consecuencias
 - Insurgentes_crp
 title: Consecuencias de la guerra Rusia vs OTAN para Bolivia y América Latina
 url_code: ""

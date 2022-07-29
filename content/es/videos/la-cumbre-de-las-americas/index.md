@@ -8,6 +8,7 @@ links:
 slides: 
 summary: La cumbre de las Américas una hegemonía en peligro
 tags:
+- OEA
 - Insurgentes_crp
 title: La cumbre de las Américas una hegemonía en peligro
 url_code: ""

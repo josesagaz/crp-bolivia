@@ -8,6 +8,7 @@ links:
 slides: 
 summary: 
 tags:
+- La_COB
 - Insurgentes_crp
 title: La COB en la historia de Bolivia — Revolución del 52
 url_code: ""

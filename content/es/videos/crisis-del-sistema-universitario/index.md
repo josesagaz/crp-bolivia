@@ -8,6 +8,7 @@ links:
 slides: 
 summary: Crisis del sistema universitario, una deuda pendiente
 tags:
+- Crisis
 - Insurgentes_crp
 title: Crisis del sistema universitario, una deuda pendiente
 url_code: ""

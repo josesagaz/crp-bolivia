@@ -8,6 +8,7 @@ links:
 slides: 
 summary: 
 tags:
+- OTAN
 - Insurgentes_crp
 title: ¿QUE ES LA OTAN? 
 url_code: ""

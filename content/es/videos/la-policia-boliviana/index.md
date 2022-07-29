@@ -8,6 +8,7 @@ links:
 slides: 
 summary: 
 tags:
+- la_policia
 - Insurgentes_crp
 title: La policía boliviana entre la corrupción y la urgente reestructuración
 url_code: ""

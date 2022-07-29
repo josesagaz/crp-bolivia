@@ -8,6 +8,7 @@ links:
 slides: 
 summary: 
 tags:
+- medios
 - Insurgentes_crp
 title: Los Medios — Arma invisible de la guerra irrestricta
 url_code: ""

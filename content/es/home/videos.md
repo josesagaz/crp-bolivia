@@ -26,16 +26,42 @@ subtitle = "Seleccion de materiales"
     tag = "*"
   
   [[content.filter_button]]
-    name = "José Martí"
-    tag = "coleccion1"
+    name = "¿QUE ES LA OTAN?"
+    tag = "OTAN"
   
   [[content.filter_button]]
-  name = "Leer en libertad"
-    tag = "brigada"
+  name = "Consecuencias de la guerra"
+    tag = "Consecuencias"
     
 [[content.filter_button]]
-  name = "Casa de las Américas"
-    tag = "coleccion3"
+  name = "Crisis del sistema universitario"
+    tag = "Crisis"
+
+[[content.filter_button]]
+  name = "El pedigri jailon"
+    tag = "El_pedigri"
+
+[[content.filter_button]]
+  name = "Autoritarismo en Colombia?"
+    tag = "El_fin"
+    
+[[content.filter_button]]
+  name = "La COB en la historia"
+    tag = "La_COB"
+    
+[[content.filter_button]]
+  name = "Cumbre de la OEA"
+    tag = "OEA"
+
+[[content.filter_button]]
+  name = "Policia Boliviana"
+    tag = "la_policia"
+
+[[content.filter_button]]
+  name = "Los Medios"
+    tag = "medios"
+
+
 
   # Filter posts by a taxonomy term.
   [content.filters]

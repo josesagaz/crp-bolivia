@@ -8,6 +8,7 @@ links:
 slides: 
 summary: 
 tags:
+- El_pedigri
 - Insurgentes_crp
 title: El pedigri jailon — mestizos o cholos
 url_code: ""
